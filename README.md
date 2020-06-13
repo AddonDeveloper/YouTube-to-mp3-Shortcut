@@ -5,4 +5,4 @@ Paste the "320" directly into the link from youtube before "youtube.com/watch?v=
 
 Example:
 
-(https://raw.githubusercontent.com/AddonDeveloper/YouTube-to-mp3-Shortcut/master/youtube-to-mp3-url_helper.png)
+![YouTube-to-mp3-Shortcut](https://raw.githubusercontent.com/AddonDeveloper/YouTube-to-mp3-Shortcut/master/youtube-to-mp3-url_helper.png)
