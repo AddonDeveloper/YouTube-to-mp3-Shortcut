@@ -1,7 +1,7 @@
 # YouTube to mp3 Shortcut
 Let you convert YouTube to mp3 with this simple 3-Key Shortcut.
 
-Paste the "320" immediately into the link from youtube video page before "youtube.com/watch?v=", so you get straight to the mp3 download.
+Paste the "rc" immediately into the link from youtube video page before "youtube.com/watch?v=", so you get straight to the mp3 download. Or visit https://rcyoutube.com
 
 ## How to YouTube to mp3 instantly with shortcut:
 
