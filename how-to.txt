@@ -1,5 +1,5 @@
 - Visit YouTube.com and select a Video you want to convert to mp3
 - Now go to the adress bar. For Example: https://www.youtube.com/watch?v=0KSOMA3QBU0
-- Type 320 before "youtube.com/watch?v=" like "320youtube.com/watch?v="
-- The final url must be https://www.320youtube.com/watch?v=0KSOMA3QBU0
+- Type rc before "youtube.com/watch?v=" like "rcyoutube.com/watch?v="
+- The final url must be https://www.rcyoutube.com/watch?v=0KSOMA3QBU0
 - Press enter and you go direct to the file download.
